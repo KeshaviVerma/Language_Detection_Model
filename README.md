@@ -29,7 +29,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the Repository**:
    ```bash
    git clone <repository-URL>
-   cd Language-Detection-Model
+   cd Language_Detection_Model
 2. **Set Up Virtual Environment**:
    ```bash
    python -m venv venv
